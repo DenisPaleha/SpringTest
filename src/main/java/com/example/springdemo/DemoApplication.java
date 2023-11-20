@@ -13,5 +13,6 @@ public class DemoApplication {
         System.out.println("Сервис уведомлений сообщает:");
         System.out.println(output);
         context.close();
+
     }
 }
